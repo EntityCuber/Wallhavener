@@ -1,3 +1,3 @@
 # Wallhavener
 A wallpaper app using wallhaven api
-[](Wallhavener_gui.png)
+![](Wallhavener_gui.png)
